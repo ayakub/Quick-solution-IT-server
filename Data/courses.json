@@ -17,4 +17,40 @@
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTIqyJ0JweElK0HK4m1MBbeRRcCQff0LfLrfJR_0Ws6d9IJ8saJ9tGQE7PQPosiCS_nc&usqp=CAU",
         "rating": 4.9
     },
+    {
+        "id": 3,
+        "title": "Data Science",
+        "price": 60,
+        "description": "Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization's data. These insights can be used to guide decision making and strategic planning.",
+        "total-selling": "20k",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRToVYk-SuMHw1VdWLW3_A5FCaHPyL_32SxoS63CVoCReT5klGFIFA9ZD6ov77BLFzcJUA&usqp=CAU",
+        "rating": 4.9
+    },
+    {
+        "id": 4,
+        "title": "Robotics",
+        "price": 40,
+        "description": "Robotics is an academic discipline of science and technology related to all kinds of robots. Then, what is a robot? Unfortunately, there is no exact definition on robots, but by general agreement a robot is a programmable machine that imitates the actions or appearance of an intelligent creature, usually a human. Figure 1 shows examples of these robots similar to animals and humans.",
+        "total-selling": "50k",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZF_-qp7fS0CCmq-FHs6CTupaDcnnWfJD04_BVVaIJjz4CuJMQnBfm5WHy0nnWB7lYc8U&usqp=CAU",
+        "rating": 4.9
+    },
+    {
+        "id": 5,
+        "title": "Artificial Inteligence",
+        "price": 70,
+        "description": "Communication service providers (CSPs) are quickly focusing on highly capable and future-proof 5G edge platforms to deliver compelling current and future use cases. CSPs will be able to offer higher value and more focused services to monetize their 5G edge infrastructure for enterprise customers to tap into new revenue streams.However, choosing the right platform requires looking deeper into the options available. A comprehensive solution includes many different technologies. There are numerous edge infrastructure provider options for CSPs, and having the right partner is essential. This list of six key characteristics can help CSPs make the best choice for a partner, one that will enable their success both now and into the future.",
+        "total-selling": "27k",
+        "image": "https://img.freepik.com/free-vector/wireframe-robot-ai-artificial-intelligence-robotic-hand-machine-learning-cyber-mind-domination-concept_127544-852.jpg?w=2000",
+        "rating": 5.0
+    },
+    {
+        "id": 6,
+        "title": "BlockChain Development",
+        "price": 20,
+        "description": " blockchain is a distributed database or ledger that is shared among the nodes of a computer network. As a database, a blockchain stores information electronically in digital format. Blockchains are best known for their crucial role in cryptocurrency systems, such as Bitcoin, for maintaining a secure and decentralized record of transactions. The innovation with a blockchain is that it guarantees the fidelity and security of a record of data and generates trust without the need for a trusted third party.One key difference between a typical database and a blockchain is how the data is structured. A blockchain collects information together in groups, known as blocks, that hold sets of information. Blocks have certain storage capacities and, when filled, are closed and linked to the previously filled block, forming a chain of data known as the blockchain. All new information that follows that freshly added block is compiled into a newly formed block that will then also be added to the chain once filled.",
+        "total-selling": "32k",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQSb89UMVQJ40Jw6WKML1hJ9cwvYWMa5YihqWvVq0JsRfTDCtYyH6PVsEBK3Fz8xyQBjM&usqp=CAU",
+        "rating": 5.0
+    },
 ]
