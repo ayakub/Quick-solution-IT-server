@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Machine Learning",
+        "price": 50,
+        "description": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.",
+        "total-selling": "100k",
+        "image": "https://www.einfochips.com/blog/wp-content/uploads/2018/11/how-to-develop-machine-learning-applications-for-business-featured.jpg",
+        "rating": 4.9
+    },
+    {
+        "id": 2,
+        "title": "Data Structure & Algorithm",
+        "price": 30,
+        "description": "A data structure is not only used for organizing the data. It is also used for processing, retrieving, and storing data. There are different basic and advanced types of data structures that are used in almost every program or software system that has been developed. So we must have good knowledge about data structures.",
+        "total-selling": "1M",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTIqyJ0JweElK0HK4m1MBbeRRcCQff0LfLrfJR_0Ws6d9IJ8saJ9tGQE7PQPosiCS_nc&usqp=CAU",
+        "rating": 4.9
+    },
+]
