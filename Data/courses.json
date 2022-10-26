@@ -4,7 +4,7 @@
         "title": "Machine Learning",
         "price": 50,
         "description": "Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.",
-        "total-selling": "100k",
+        "total_selling": "100k",
         "image": "https://www.einfochips.com/blog/wp-content/uploads/2018/11/how-to-develop-machine-learning-applications-for-business-featured.jpg",
         "rating": 4.9
     },
@@ -13,7 +13,7 @@
         "title": "Data Structure & Algorithm",
         "price": 30,
         "description": "A data structure is not only used for organizing the data. It is also used for processing, retrieving, and storing data. There are different basic and advanced types of data structures that are used in almost every program or software system that has been developed. So we must have good knowledge about data structures.",
-        "total-selling": "1M",
+        "total_selling": "1M",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTIqyJ0JweElK0HK4m1MBbeRRcCQff0LfLrfJR_0Ws6d9IJ8saJ9tGQE7PQPosiCS_nc&usqp=CAU",
         "rating": 4.9
     },
@@ -22,7 +22,7 @@
         "title": "Data Science",
         "price": 60,
         "description": "Data science combines math and statistics, specialized programming, advanced analytics, artificial intelligence (AI), and machine learning with specific subject matter expertise to uncover actionable insights hidden in an organization's data. These insights can be used to guide decision making and strategic planning.",
-        "total-selling": "20k",
+        "total_selling": "20k",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRToVYk-SuMHw1VdWLW3_A5FCaHPyL_32SxoS63CVoCReT5klGFIFA9ZD6ov77BLFzcJUA&usqp=CAU",
         "rating": 4.9
     },
@@ -31,7 +31,7 @@
         "title": "Robotics",
         "price": 40,
         "description": "Robotics is an academic discipline of science and technology related to all kinds of robots. Then, what is a robot? Unfortunately, there is no exact definition on robots, but by general agreement a robot is a programmable machine that imitates the actions or appearance of an intelligent creature, usually a human. Figure 1 shows examples of these robots similar to animals and humans.",
-        "total-selling": "50k",
+        "total_selling": "50k",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZF_-qp7fS0CCmq-FHs6CTupaDcnnWfJD04_BVVaIJjz4CuJMQnBfm5WHy0nnWB7lYc8U&usqp=CAU",
         "rating": 4.9
     },
@@ -40,7 +40,7 @@
         "title": "Artificial Inteligence",
         "price": 70,
         "description": "Communication service providers (CSPs) are quickly focusing on highly capable and future-proof 5G edge platforms to deliver compelling current and future use cases. CSPs will be able to offer higher value and more focused services to monetize their 5G edge infrastructure for enterprise customers to tap into new revenue streams.However, choosing the right platform requires looking deeper into the options available. A comprehensive solution includes many different technologies. There are numerous edge infrastructure provider options for CSPs, and having the right partner is essential. This list of six key characteristics can help CSPs make the best choice for a partner, one that will enable their success both now and into the future.",
-        "total-selling": "27k",
+        "total_selling": "27k",
         "image": "https://img.freepik.com/free-vector/wireframe-robot-ai-artificial-intelligence-robotic-hand-machine-learning-cyber-mind-domination-concept_127544-852.jpg?w=2000",
         "rating": 5.0
     },
@@ -49,7 +49,7 @@
         "title": "BlockChain Development",
         "price": 20,
         "description": " blockchain is a distributed database or ledger that is shared among the nodes of a computer network. As a database, a blockchain stores information electronically in digital format. Blockchains are best known for their crucial role in cryptocurrency systems, such as Bitcoin, for maintaining a secure and decentralized record of transactions. The innovation with a blockchain is that it guarantees the fidelity and security of a record of data and generates trust without the need for a trusted third party.One key difference between a typical database and a blockchain is how the data is structured. A blockchain collects information together in groups, known as blocks, that hold sets of information. Blocks have certain storage capacities and, when filled, are closed and linked to the previously filled block, forming a chain of data known as the blockchain. All new information that follows that freshly added block is compiled into a newly formed block that will then also be added to the chain once filled.",
-        "total-selling": "32k",
+        "total_selling": "32k",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQSb89UMVQJ40Jw6WKML1hJ9cwvYWMa5YihqWvVq0JsRfTDCtYyH6PVsEBK3Fz8xyQBjM&usqp=CAU",
         "rating": 5.0
     },
@@ -58,7 +58,7 @@
         "title": "Software Development",
         "price": 30,
         "description": "oftware development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components. Software development involves writing and maintaining the source code, but in a broader sense, it includes all processes from the conception of the desired software through to the final manifestation of the software, typically in a planned and structured process.[1] Software development also includes research, new development, prototyping, modification, reuse, re-engineering, maintenance, or any other activities that result in software products",
-        "total-selling": "2M",
+        "total_selling": "2M",
         "image": "https://thumbs.dreamstime.com/b/software-development-data-digital-programs-system-technology-concept-software-development-data-digital-programs-system-technology-114631832.jpg",
         "rating": 5.0
     },
@@ -67,7 +67,7 @@
         "title": "Mobile App Development",
         "price": 10,
         "description": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an application-like experience within a web browser. Application software developers also must consider a long array of screen sizes, hardware specifications, and configurations because of intense competition in mobile software and changes within each of the platforms. Mobile app development has been steadily growing, in revenues and jobs created. A 2013 analyst report estimates there are 529,000 direct app economy jobs within the EU then 28 members (including the UK), 60 percent of which are mobile app developers.As part of the development process, mobile user interface (UI) design is also essential in the creation of mobile apps. Mobile UI considers constraints, contexts, screen, input, and mobility as outlines for design. The user is often the focus of interaction with their device, and the interface entails components of both hardware and software. User input allows for the users to manipulate a system, and device's output allows the system to indicate the effects of the users' manipulation.",
-        "total-selling": "2.5M",
+        "total_selling": "2.5M",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVvUjsdKB4aQrcgOTMca_9Uu4d4Ql2Ib4AcN0SXZc3tsfW2CutCG9WQo-IaYFanGONB0&usqp=CAU",
         "rating": 5.0
     },
@@ -76,7 +76,7 @@
         "title": "Cyber Security",
         "price": 18,
         "description": "Computer security, cybersecurity (cyber security), or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of, or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide.The field has become of significance due to the expanded reliance on computer systems, the Internet,[3] and wireless network standards such as Bluetooth and Wi-Fi, and due to the growth of smart devices, including smartphones, televisions, and the various devices that constitute the Internet of things (IoT). Cybersecurity is also one of the significant challenges in the contemporary world,",
-        "total-selling": "1.5M",
+        "total_selling": "1.5M",
         "image": "https://img.freepik.com/free-vector/cyber-security-concept_23-2148539596.jpg?w=2000",
         "rating": 5.0
     }
